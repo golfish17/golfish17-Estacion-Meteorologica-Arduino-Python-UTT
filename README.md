@@ -1,6 +1,6 @@
 # Estación Meteorológica Arduino-Python
 
-![Estación Meteorológica](https://raw.githubusercontent.com/golfish17/golfish17-Estacion-Meteorologica-Arduino-Python-UTT/main/tu-imagen.jpg)
+![Estación Meteorológica](diagrama.jpg)
 
 ## Descripción
 
